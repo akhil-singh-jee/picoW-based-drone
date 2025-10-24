@@ -1,7 +1,7 @@
-# 🛩️Raspberry Pi Pico-W Based Mini Drone  
+# 🛩️Raspberry Pi PicoW-Based Micro Drone  
 
 ## Project Overview
-This project is a Raspberry Pi Pico W–based mini drone designed for hands-on experimentation with wireless control, sensor fusion, and flight stabilization. It uses coreless DC motors, an MPU-6050 gyroscope and accelerometer, and a Li-Po battery powered through a DC-DC boost converter. The drone connects to a mobile app via Wi-Fi for real-time flight control and telemetry.
+This project is a Raspberry Pi PicoW–based micro size drone designed for hands-on experimentation with wireless control, sensor fusion, and flight stabilization. It uses coreless DC motors, an MPU-6050 gyroscope and accelerometer, and a Li-Po battery powered through a DC-DC boost converter. The drone connects to a mobile app via Wi-Fi for real-time flight control and telemetry.
 The total build weight is approximately 210 grams, making it lightweight and suitable for indoor and short-range outdoor flight tests, controlled wirelessly via the custom **AirM Mobile App (v1.1)**.
 
 ---
