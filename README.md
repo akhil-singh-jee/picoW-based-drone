@@ -6,6 +6,8 @@ The total build weight is approximately 210 grams, making it lightweight and sui
 
 ---
 
+![Drone Prototype](https://github.com/akhil-singh-jee/picoW-based-drone/blob/main/Images/Prototype%20picoW%20Drone.jpg)
+
 ## All Components List
 
 | Component | Specification | Quantity | Description |
@@ -32,6 +34,7 @@ The total build weight is approximately 210 grams, making it lightweight and sui
 
 
 ---
+![PicoW Drone ](https://github.com/akhil-singh-jee/picoW-based-drone/blob/main/Images/PicoW2.jpg)
 
 ## Circuit & Connections
 
@@ -45,6 +48,7 @@ The total build weight is approximately 210 grams, making it lightweight and sui
 - Common Ground (GND) across all modules
 - Circuit diagram (Not Available).
 
+![MPU6050](https://github.com/akhil-singh-jee/picoW-based-drone/blob/main/Images/MPU6050.jpg)
 
 ---
 
